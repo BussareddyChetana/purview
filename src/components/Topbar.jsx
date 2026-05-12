@@ -11,7 +11,6 @@ function Topbar() {
     "240 AI calls completed",
     "CSV uploaded successfully",
   ];
-
   return (
     <div className="flex justify-between items-center mb-8 relative">
       
